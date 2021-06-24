@@ -1,1 +1,1 @@
-# JavaScript-Range-Virtusa
+# JavaScript-Range-slider
